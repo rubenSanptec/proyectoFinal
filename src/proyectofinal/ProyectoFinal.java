@@ -4,6 +4,8 @@
  */
 package proyectofinal;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author USUARIO
@@ -15,6 +17,7 @@ public class ProyectoFinal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //JOptionPane.showMessageDialog(null,"hola");
     }
     
 }
